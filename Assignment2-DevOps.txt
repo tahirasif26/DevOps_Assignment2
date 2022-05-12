@@ -1,0 +1,8 @@
+Assignment 2
+
+As discussed, for the second assignment, kindly consider following details,
+Create a repository within Git Repository should have atleast testspec.yaml,
+buildspec.yaml, cloudformation script and lambda code.
+Create a pipeline within AWS Code Pipeline service with Source, Unit Test, 
+Build and Deploy stages. If code is changed withGit repo, it should be 
+automatically deployed to the lambda. 
